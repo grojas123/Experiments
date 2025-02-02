@@ -1,3 +1,6 @@
 matplotlib
 scipy
 jupyterlab
+QuantLib
+pandas
+plotly
