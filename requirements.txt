@@ -4,3 +4,5 @@ jupyterlab
 QuantLib
 pandas
 plotly
+numpy
+sympy
